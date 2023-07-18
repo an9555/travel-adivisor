@@ -1,0 +1,16 @@
+npx create-next-app@latest ./
+
+npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5
+
+
+npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion
+
+npm i @material-ui/lab 
+
+npm install @react-google-maps/api axios google-map-react react-icons
+npm run dev
+
+
+
+npm install @mui/material @emotion/react @emotion/styled
+
